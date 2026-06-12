@@ -1,5 +1,5 @@
 #URL do sito Urban Routes Arquivo
-URBAN_ROUTES_URL="https://cnt-540f2092-44da-4d67-bda4-5f2c52557944.containerhub.tripleten-services.com/?lng=pt"
+URBAN_ROUTES_URL="https://cnt-15ac50d4-d11d-4bc8-8d71-d929321a3eb4.containerhub.tripleten-services.com/?lng=pt"
 
 #Constante de uso no teste
 ADDRESS_FROM='East 2nd Street, 601'
